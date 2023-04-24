@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in data structures in C++\My_work\Letter_Tree\Source.cpp(139,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Letter_Tree.vcxproj -> E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in data structures in C++\My_work\Letter_Tree\x64\Debug\Letter_Tree.exe
